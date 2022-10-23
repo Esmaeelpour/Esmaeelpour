@@ -15,7 +15,6 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 📫 How to reach me: jesmaeel@tennessee.edu
 
 <div>
@@ -28,7 +27,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 <!----------------------------->
 
 <!-- STATISTICS -->
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/hejazizo)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Esmaeelpour)
  -->
 <!-- MEDIUM & BUY ME A COFFEE -->
 <!-- 
