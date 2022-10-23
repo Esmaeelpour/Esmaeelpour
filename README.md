@@ -1,7 +1,7 @@
 <h1> Javad Esmaeelpour </h1>
 
 <a href="https://twitter.com/jvd_esm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hejazizo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/jvd_esm?color=blue&style=for-the-badge"
 />
 
 <!-- </a> <a href="https://www.github.com/hejazizo" target="_blank" rel="noreferrer"><img
