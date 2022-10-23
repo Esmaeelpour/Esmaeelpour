@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 <!----------------------------->
 
 <!-- STATISTICS -->
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Esmaeelpour)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Esmaeelpour&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Esmaeelpour)
  -->
 <!-- MEDIUM & BUY ME A COFFEE -->
 <!-- 
