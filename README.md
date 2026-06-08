@@ -33,6 +33,10 @@
 ---
 
 <p align="center">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour&theme=default" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Esmaeelpour&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esmaeelpour&theme=minimal&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeelpour&layout=compact&hide_border=true&langs_count=6" />
 </p>
