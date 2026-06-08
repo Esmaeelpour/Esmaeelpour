@@ -20,12 +20,6 @@
   </a>
 </p>
 
----
-
-- 🔬 Researching time-dependent behavior of RC columns (creep, shrinkage, P-delta)
-- 🛠️ Building material models in OpenSees C++ and running nonlinear FEA
-- 📄 Published in *Journal of Bridge Engineering* and *ACI Structural Journal*
-- 🌍 Open to structural engineering roles in the UK and Netherlands
 
 ---
 
