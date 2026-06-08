@@ -37,6 +37,5 @@
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour&hide_border=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeelpour&layout=compact&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour&hide_border=true" />
 </p>
