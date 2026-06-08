@@ -1,22 +1,41 @@
-<h1> Javad Esmaeelpour </h1>
+<h1 align="center">Javad Esmaeelpour</h1>
 
-<a href="https://twitter.com/jvd_esm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jvd_esm?color=blue&style=for-the-badge"
-/>
+<p align="center">
+  Structural Engineering PhD · University of Tennessee, Knoxville<br>
+  Reinforced Concrete · Creep & Shrinkage · OpenSees · Nonlinear FEA
+</p>
 
-<!-- </a> <a href="https://www.github.com/Esmaeelpour" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Esmaeelpour?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/javad-esmaeelpour-177a7bb7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/jvd_esm">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:jesmaeel@tennessee.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/javadesmp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Esmaeelpour">
+    <img src="https://img.shields.io/github/followers/Esmaeelpour?label=Follow&style=for-the-badge&logo=github&color=181717&labelColor=333" />
+  </a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsmaeelpour&count_bg=%2379C83D&title_bg=%23555555&title=Views&edge_flat=false" />
+  </a>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsmaeelpour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javad-esmaeelpour-177a7bb7/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesmaeel@tennessee.edu)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/javadesmp/)](https://www.instagram.com/javadesmp)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/jvd_esm)](https://twitter.com/jvd_esm)
-[![Github](https://img.shields.io/github/followers/Esmaeelpour?label=Follow&style=social)](https://github.com/Esmaeelpour)
+---
 
-- 📫 How to reach me: jesmaeel@tennessee.edu
+### About
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Esmaeelpour&show_icons=true&locale=en&layout=compact" alt="Esmaeelpour" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour&" alt="Esmaeelpour" />
-</div>
+Structural engineering researcher with a focus on time-dependent behavior of reinforced concrete columns, including creep and shrinkage modeling, nonlinear finite element analysis, and slender column design. Author of peer-reviewed work in the *Journal of Bridge Engineering* and *ACI Structural Journal*.
+
+---
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Esmaeelpour&show_icons=true&locale=en&layout=compact&theme=default" />
+  &nbsp;
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour" />
+</p>
