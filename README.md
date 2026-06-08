@@ -21,21 +21,18 @@
   <a href="https://github.com/Esmaeelpour">
     <img src="https://img.shields.io/github/followers/Esmaeelpour?label=Follow&style=for-the-badge&logo=github&color=181717&labelColor=333" />
   </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsmaeelpour&count_bg=%2379C83D&title_bg=%23555555&title=Views&edge_flat=false" />
-  </a>
 </p>
 
 ---
 
-### About
-
-Structural engineering researcher with a focus on time-dependent behavior of reinforced concrete columns, including creep and shrinkage modeling, nonlinear finite element analysis, and slender column design. Author of peer-reviewed work in the *Journal of Bridge Engineering* and *ACI Structural Journal*.
+- 🔬 Researching time-dependent behavior of RC columns (creep, shrinkage, P-delta)
+- 🛠️ Building material models in OpenSees C++ and running nonlinear FEA
+- 📄 Published in *Journal of Bridge Engineering* and *ACI Structural Journal*
+- 🌍 Open to structural engineering roles in the UK and Netherlands
 
 ---
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Esmaeelpour&show_icons=true&locale=en&layout=compact&theme=default" />
-  &nbsp;
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Esmaeelpour&theme=default" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Esmaeelpour&show_icons=true&hide_border=true&count_private=true" />
 </p>
