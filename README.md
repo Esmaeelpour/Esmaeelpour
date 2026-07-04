@@ -1,7 +1,7 @@
 <h1 align="center">Javad Esmaeelpour</h1>
 
 <p align="center">
-  Structural Engineering PhD · University of Tennessee, Knoxville<br>
+  Structural Engineering Ph.D. · University of Tennessee, Knoxville<br>
   Reinforced Concrete · Creep & Shrinkage · OpenSees · Nonlinear FEA
 </p>
 
