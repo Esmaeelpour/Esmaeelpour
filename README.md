@@ -32,11 +32,9 @@
 
 ## Projects
 
-| | |
-| --- | --- |
-| [**peerstyle**](https://github.com/Esmaeelpour/peerstyle) | Publication-quality Matplotlib styling for peer-reviewed journals · [docs](https://esmaeelpour.github.io/peerstyle/) |
-| [**obsidian-soliddav**](https://github.com/Esmaeelpour/obsidian-soliddav) | SolidDAV: reliable WebDAV sync for Obsidian |
-| [**obsidian-checksorted**](https://github.com/Esmaeelpour/obsidian-checksorted) | Moves completed to-do items into a separate done area, keeping active tasks clean |
+- [**peerstyle**](https://github.com/Esmaeelpour/peerstyle): publication-quality Matplotlib styling for peer-reviewed journals ([docs](https://esmaeelpour.github.io/peerstyle/))
+- [**obsidian-soliddav**](https://github.com/Esmaeelpour/obsidian-soliddav): SolidDAV, reliable WebDAV sync for Obsidian
+- [**obsidian-checksorted**](https://github.com/Esmaeelpour/obsidian-checksorted): moves completed to-do items into a separate done area, keeping active tasks clean
 
 ## Research software
 
